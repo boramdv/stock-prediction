@@ -16,7 +16,7 @@
 
 
 
-### tableau - BoostCourse
+### ableau - BoostCourse
 https://public.tableau.com/app/profile/boram.yun
 - 주가 데이터 시각화
 - 유튜브 스크립트 시각화
