@@ -9,7 +9,14 @@
 
 ## Tools
 
+### YouTube Script NLP
+- 데이터 전처리
+  - STT 정확도 문제 -> Fasttext 이용 (예정)
+  - 불용어 처리 문제 -> 수정중
+
+
+
 ### tableau - BoostCourse
 https://public.tableau.com/app/profile/boram.yun
-
-### YouTube Script NLP
+- 주가 데이터 시각화
+- 유튜브 스크립트 시각화
